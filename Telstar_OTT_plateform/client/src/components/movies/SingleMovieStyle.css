@@ -1,0 +1,9 @@
+.container {
+  margin-top: 10px;
+}
+.movieDetails {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+}

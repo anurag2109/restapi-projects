@@ -1,0 +1,14 @@
+.slideContainer {
+  box-shadow: 2px -1px 13px 1px rgb(0 0 0 / 10%);
+}
+
+.sliderImage {
+  height: 200px;
+  padding-left: 8px;
+}
+/* .text {
+  font-size: 14px;
+} */
+.sliderImgAndTextBox {
+  padding: "25px 15px";
+}

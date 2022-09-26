@@ -1,0 +1,48 @@
+//-------------user data ------------------------------
+{
+   
+    "firstName": "anurag",
+	    "lastName": "karn",
+	    "username": "anu@gmail.com",
+	    "password": "123456",
+	    "email": "anu@gmail.com",
+	    "dob": "18-08-2022",
+	    "role":["admin","user"]
+
+}
+
+
+
+
+//--------------------movie data-----------------------
+{
+   
+    "actors": ["Tonny", "Jadugar"],
+    "movieName": "Avenger civil war",
+    "director": "anurag kashyap",
+    "genre":"ACTION",
+    "production": "dharma",
+    "languages": ["hindi", "english"],
+    "movieLength": "02:20:20",
+    "trailer1": "c://download/trailer.mp4"
+
+}
+
+
+
+
+//----------------webseries data ------------------------
+
+{
+   
+    "actors": ["manoj bajpay", "Suchi"],
+    "webSeriesName": "Faimly Man31",
+    "director": "anurag kashyap",
+    "genre":"ACTION",
+    "production": "dharma",
+    "languages": ["hindi"],
+    "episodes": 8,
+    "trailer1": "c://download/trailer.mp4"
+
+}
+
